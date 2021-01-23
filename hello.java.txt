@@ -1,0 +1,7 @@
+ public class tes{
+
+
+ publi void test{
+  System.out.println("madhu");
+}
+}
